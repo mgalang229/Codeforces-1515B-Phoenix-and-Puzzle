@@ -21,7 +21,7 @@ public class Main {
 	
 	static class Solver { 
 		Solver() {
-			// If 𝑛 can be written as 2x or 4x, where x is a square number, 
+			// If n can be written as 2x or 4x, where x is a square number, 
 			// then the answer is YES. Otherwise it is NO.
 			
 			// To visualize this construction, we start by first building a smaller square 
